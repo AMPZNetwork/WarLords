@@ -1,1 +1,31 @@
+§lUpdate History
+§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+-----------------------------------------------------------------
+1.0.1-r
+ 
 
+§lNew Mods:
+*MPUtils Basic Tools
+*MPUtils
+
+§lFixes/changes
+*Renamed modpack to The Collection Pack
+*Renamed Website to Bug Report
+*Updated What's New! button URL
+*Updated Faithful 32x textures
+*Fixed inferium seeds not planting with cropsticks
+*Fixed the following Mysticalagriculture Json files (thanks to @Nukeofwf) 
+- Grains of infinity
+- Tier5 Inferium Plant, 
+- Tritanium Plant
+- Dilithium Plant
+- End Steel Plant
+ 
+§l§cRemoved Mods:
+*
+
+§lMods updated:
+*Controlling (3.0.9 → 3.0.10)
+*CraftPresence (1.6.6 → 1.6.8)
+*RandomPatches (1.22.0.0 → 1.22.1.1)
+---------------------------------------------------------------------------------
