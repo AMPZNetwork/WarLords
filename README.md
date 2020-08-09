@@ -1,12 +1,11 @@
-# The Collection Pack 1.12
+# WarLords 1.12
 ======
 
-This is the official repository and issue-tracker for The Collection Pack 1.12
+This is the official repository and issue-tracker for WarLords 1.12
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/the-collection-pack/files  
-+ https://www.technicpack.net/modpack/the-112-ultimate-pack.1720458  
-+ https://atlauncher.com/pack/TheCollectionPack  
++ https://www.curseforge.com/minecraft/modpacks/warlords-1122  
++ https://www.technicpack.net/modpack/warlords-1122.1224674 
   
 Need Help?
 ======
