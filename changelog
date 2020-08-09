@@ -1,31 +1,275 @@
 §lUpdate History
 §l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 -----------------------------------------------------------------
-1.0.1-r
- 
+3.0.2 / 3.0.3
+
+§1Yes worlds made in v3.0 compatible, you will get a message about missing entries
+§1this is normal, just click yes to accept changes and your world should load fine.
 
 §lNew Mods:
-*MPUtils Basic Tools
-*MPUtils
+*AI Improvements
 
 §lFixes/changes
-*Renamed modpack to The Collection Pack
-*Renamed Website to Bug Report
-*Updated What's New! button URL
-*Updated Faithful 32x textures
-*Fixed inferium seeds not planting with cropsticks
-*Fixed the following Mysticalagriculture Json files (thanks to @Nukeofwf) 
-- Grains of infinity
-- Tier5 Inferium Plant, 
-- Tritanium Plant
-- Dilithium Plant
-- End Steel Plant
- 
-§l§cRemoved Mods:
-*
+*Fixed broken pack icon upon loading
+*New pack icon
 
-§lMods updated:
-*Controlling (3.0.9 → 3.0.10)
-*CraftPresence (1.6.6 → 1.6.8)
-*RandomPatches (1.22.0.0 → 1.22.1.1)
----------------------------------------------------------------------------------
+§l§cRemoved Mods:
+
+§lMod Updates:
+*Buildcraft to V7.99.24.5
+*CraftPresence to V1.6.1
+*Custom Main Menu to V2.0.9.1
+*Ender IO to V5.1.55
+*JourneyMap to V5.7.0
+*Nature's Compass to V1.8.5
+*OMLib to V3.1.4-249
+*Open Modular Turrets to V3.1.7-365
+*Quark to V178
+*RandomPatches to V1.21.0.0
+*Tinkers Construct to V2.13.0.183
+-----------------------------------------------------------------
+3.0.1
+
+§1Yes worlds made in v3.0 compatible, you will get a message about missing entries
+§1this is normal, just click yes to accept changes and your world should load fine.
+
+§lNew Mods:
+
+§lFixes/changes
+*Fixed Main Menu sound breaking
+
+§l§cRemoved Mods:
+
+§lMod Updates:
+*TreeCapitator Client to V1.43.0
+-----------------------------------------------------------------
+3.0
+
+This build may break old worlds.
+
+§lNew Mods:
+*Twilight Forest
+*Quark
+*Just Enough Resources
+*Toast Control
+*Roguelike Dungeons
+*Bigger packets plz
+
+§lFixes/changes
+*Brand new Main Menu UI
+
+§l§cRemoved Mods:
+*NEI
+*Simply Jetpacks 2
+*Forestry
+
+§lMod Updates:
+*Biomes O' Plenty to V7.0.1.2444
+*Botania to V3.6.3
+*CraftPresence to V1.6.0
+*JourneyMap to V5.5.6
+*Nature's Compass to V1.8.0
+*RandomPatches to V1.20.1.0
+*Tinkers Construct to V2.13.0.171
+-----------------------------------------------------------------
+2.6
+
+WarLords officially arrives on curseforge
+https://www.curseforge.com/minecraft/modpacks/warlords-1-12-2
+
+§lNew Mods:
+*CraftPresence
+*RandomPatches
+
+§lFixes/changes
+*Added Official server IP
+*Updated Faithful textures
+
+§l§cRemoved Mods:
+
+§lMod Updates:
+*Forge to 14.23.5.2847
+*OptiFine to HD U F5
+*Updated all mods to there latest builds
+-----------------------------------------------------------------
+2.5
+
+*Added Magical Crops
+*Added BiomesOPlenty
+*Added Randompatches
+*Added wailaharvestability
+
+Updated Mods
+*All mods have been updated to their latest builds as of 04.08.19
+*Faithful32 with more 32x textures
+
+Note BDcraft texture pack is being created as we speak
+
+Removed Mods
+*customdiscordrpc
+*ExtraPlanets
+*More Planets 
+*in-game account switcher
+*Minecraft Comes Alive [MCA]
+-----------------------------------------------------------------
+2.4.1
+
+*Updated "Join Our Discord" Link
+*Small Config changes
+
+Removed Mods
+*Removed veinminer
+*Removed Official Server Button/IP
+-----------------------------------------------------------------
+2.4
+
+We recommend you to backup any saves as this update might break some items in your worlds.
+
+*Added Kinetic Anti-Cheat
+*Added Minecraft Comes Alive [MCA]
+
+Updated Mods
+*Forge to build 2768
+
+Removed Mods
+*Removed Classic Combat Mod
+*Removed Liteloader (incomparable with Forge 2768)
+
+----------------------------------------------------------------
+2.3
+
+*Added In-game Account Switcher
+*Added VeinMiner [hold shift to activate]
+*WarLords will now display it's name and logo on the Window bar.
+*Discord will auto detect when you are playing WarLords
+
+Mods Removed
+*Removed Carpenter's Blocks
+*Removed reauth
+
+Updated Mods
+*Updated Galacticraft to build 4.0.1.189
+*Updated All outdated Mods
+*Updated the modpack icon to a much cooler looking one
+----------------------------------------------------------------
+2.2.1
+
+*Added BDcraft 32x and 128x Texture packs 
+*Added Singleplayer World backups 
+*WarLords will now display it's name on the Window bar.
+*Updated Texture packs [Now they adapt with the Main Menu]
+
+Removed Mods
+*Disabled appliedenergistics2 facades
+*Removed default config
+----------------------------------------------------------------
+2.2
+
+*Added Inventory Tweaks 
+*Brand new WarLords Logo
+
+Removed Mods
+*WorldEdit Forge
+*Removed NetherPortalFix 
+*Removed ComputerCraft
+*Removed some old 1.7.10 Files
+----------------------------------------------------------------
+2.1.1
+
+*Added BetterFPS [May need to change settings in-game]
+*Added Chat Bubbles
+*Disabled Buildcraft facade items.
+----------------------------------------------------------------
+2.1
+Mod Updates
+*Updated OptiFine to E2 
+*Updated ALL MODS 
+*Fixed some issues that effected the server.
+*Modpack now needs 5GB of Ram in order to run.
+----------------------------------------------------------------
+1.2.2
+
+*Added Extra Planets
+*Added Thaumcarpentry [Carpenter's Blocks Add-on]
+*Added Extra Planets Mod [Galacticraft Add-on]
+*Minor Main Menu changes
+*Minnor change to BDcraft Texture pack
+*Minor changes to the mod configs
+
+Mod Updates
+*Updated Galacticraft to 4.0.1.181
+*Updated Carpenter's Blocks to v3.3.8.1
+*Updated NaturesCompass to 1.3.1
+*Updated NEI to 1.0.5.120
+*Updated All 1.7.10 mods [that's on 1.12.2] to 1.12.2
+-----------------------------------------------------------------
+1.2.2.1
+
+*Fixed an issue with some users not being able to run the modpack
+*Fixed some minor config errors [sorry about that]
+*Minor Main Menu changes
+-----------------------------------------------------------------
+1.2.2
+
+*Added Extra Planets
+*Added Thaumcarpentry [Carpenter's Blocks Add-on]
+*Added Extra Planets Mod [Galacticraft Add-on]
+*Minor Main Menu changes
+*Minor change to BDcraft Texture pack
+*Minor changes to the mod configs
+
+Mod Updates
+*Galacticraft to 3.0.12.504
+*Carpenter's Blocks to v3.3.8.1
+*NaturesCompass to 1.3.1
+*NEI to 1.0.5.120
+-----------------------------------------------------------------
+1.2.1
+
+*Added TiC Tooltips 
+*Added Smart Cursor
+*Added GlibysVC
+*Added back Treecapitator
+*Added Bdcraft texture pack [with built-in mod support]
+*WarLords logo updated
+-----------------------------------------------------------------
+1.2
+
+*Removed Twilight Forest
+----------------------------------------------------------------
+1.1.2
+
+*Added player API for the Deep Dark Mod
+*Updated server IP
+----------------------------------------------------------------
+1.1.1
+
+*Added missing OpenModularTurrets mod to server
+*Updated some Mod Cores
+*Changed ThermalFoundation mod from 1.12.2 to 1.7.10
+
+-----------------------------------------------------------------
+1.1
+
+*Added ThermalExpansion
+*Added ReAuth Mod
+*Added carpenter's blocks
+*Added Baubles Mod
+*Bug Fixes
+*Small config changes
+
+*Removed Treecapitator [Client Side]
+
+-----------------------------------------------------------------
+1.0.2
+
+*Removed Millenaire 
+-----------------------------------------------------------------
+1.0.1
+
+*Fixed an issue with millenaire not loading on our Official server
+-----------------------------------------------------------------
+BETA 1.0.0
+*Release of WarLords
+------------------------------------------------------------------
+You must be online in order to see the update history logs
