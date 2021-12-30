@@ -2,30 +2,6 @@
 # WarLords | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>3.2</h1> 
- 
-
-**Updated:**
-+ Minecraft Forge (14.23.5.2854 → 14.23.5.2860)
- 
-
-**Changed/Fixed**
-+ Patch a recent security vulnerability affecting Minecraft.
-+ Updated Server files (**Recommend all server owners to use the new files provided with this update**).
-+ Server Files are now using our new SIMPLE FILES setup.
-+ New Main Menu Design.
-
-
-**Added:**
-+ 
-
-
-**Removed:**
-+ 
-
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
-
----------------------------------------------------------------------------------
 <h1>3.1</h1> 
 
 <h4>Discontinued<br>
