@@ -65,76 +65,89 @@ Final featured update as we are no longer supporting this pack with features, to
 Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
 
 -----------------------------------------------------------------
-3.0.2 / 3.0.3
+<h1>3.0.2 / 3.0.3</h1>
 
-§1Yes worlds made in v3.0 compatible, you will get a message about missing entries
-§1this is normal, just click yes to accept changes and your world should load fine.
+<h4>Yes worlds made in v3.0 compatible, you will get a message about missing entries<br>
+this is normal, just click yes to accept changes and your world should load fine.<h4>
 
-§lNew Mods:
-*AI Improvements
+**Updated:**
++ Buildcraft to V7.99.24.5
++ CraftPresence to V1.6.1
++ Custom Main Menu to V2.0.9.1
++ Ender IO to V5.1.55
++ JourneyMap to V5.7.0
++ Nature's Compass to V1.8.5
++ OMLib to V3.1.4-249
++ Open Modular Turrets to V3.1.7-365
++ Quark to V178
++ RandomPatches to V1.21.0.0
++ Tinkers Construct to V2.13.0.183
 
-§lFixes/changes
-*Fixed broken pack icon upon loading
-*New pack icon
+**Changed/Fixed**
++ Fixed broken pack icon upon loading
++ New pack icon
 
-§l§cRemoved Mods:
+**Added:**
++ AI Improvements
 
-§lMod Updates:
-*Buildcraft to V7.99.24.5
-*CraftPresence to V1.6.1
-*Custom Main Menu to V2.0.9.1
-*Ender IO to V5.1.55
-*JourneyMap to V5.7.0
-*Nature's Compass to V1.8.5
-*OMLib to V3.1.4-249
-*Open Modular Turrets to V3.1.7-365
-*Quark to V178
-*RandomPatches to V1.21.0.0
-*Tinkers Construct to V2.13.0.183
+**Removed:**
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
+
 -----------------------------------------------------------------
-3.0.1
+<h1>3.0.1</h1>
 
-§1Yes worlds made in v3.0 compatible, you will get a message about missing entries
-§1this is normal, just click yes to accept changes and your world should load fine.
+<h4>Yes worlds made in v3.0 compatible, you will get a message about missing entries<br>
+this is normal, just click yes to accept changes and your world should load fine.</h4>
 
-§lNew Mods:
+**Updated:**
++ TreeCapitator Client to V1.43.0
 
-§lFixes/changes
-*Fixed Main Menu sound breaking
+**Changed/Fixed**
++ Fixed Main Menu sound breaking
 
-§l§cRemoved Mods:
+**Added:**
 
-§lMod Updates:
-*TreeCapitator Client to V1.43.0
+**Removed:**
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
+
 -----------------------------------------------------------------
-3.0
+<h1>3.0</h1>
 
-This build may break old worlds.
+<h4>This build may break old worlds.</h4>
 
-§lNew Mods:
-*Twilight Forest
-*Quark
-*Just Enough Resources
-*Toast Control
-*Roguelike Dungeons
-*Bigger packets plz
+**Updated:**
++ Biomes O' Plenty to V7.0.1.2444
++ Botania to V3.6.3
++ CraftPresence to V1.6.0
++ JourneyMap to V5.5.6
++ Nature's Compass to V1.8.0
++ RandomPatches to V1.20.1.0
++ Tinkers Construct to V2.13.0.171
 
-§lFixes/changes
-*Brand new Main Menu UI
+**Changed/Fixed**
++ Brand new Main Menu UI
 
-§l§cRemoved Mods:
-*NEI
-*Simply Jetpacks 2
-*Forestry
 
-§lMod Updates:
-*Biomes O' Plenty to V7.0.1.2444
-*Botania to V3.6.3
-*CraftPresence to V1.6.0
-*JourneyMap to V5.5.6
-*Nature's Compass to V1.8.0
-*RandomPatches to V1.20.1.0
-*Tinkers Construct to V2.13.0.171
+**Added:**
++ Twilight Forest
++ Quark
++ Just Enough Resources
++ Toast Control
++ Roguelike Dungeons
++ Bigger packets plz
+
+
+**Removed:**
++ NEI
++ Simply Jetpacks 2
++ Forestry
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
+
 -----------------------------------------------------------------
 2.6
 
