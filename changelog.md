@@ -2,10 +2,72 @@
 # WarLords | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>3.1</h1> 
-
+<h1>3.2</h1> 
+ 
 <h4>Discontinued<br>
 Final featured update as we are no longer supporting this pack with features, to continue the magic theme check out our latest pack: All The Forge</h4>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2854 → 14.23.5.2860)
++ AgriCraft (A6 → B2)
++ Ancient Warfare 2 (2.7.0.772 → 2.7.0.1038)
++ Biomes O' Plenty (7.0.1.2444 → 7.0.1.2445)
++ Botania (1.10-363 → 1.10-364.4)
++ Buildcraft (7.99.24.6 → 7.99.24.8)
++ Ender IO (5.2.60 → 5.3.70)
++ Extreme Reactors (0.4.5.67 → 0.4.5.68)
++ FancyMenu (2.3.5 → 2.6.0)
++ InfinityLib (1.12.0 → 1.12.1)
++ Konkrete (1.3.2-1 → 1.3.3)
++ OMLib (3.1.4-249 → 3.1.5-256)
++ Open Modular Turrets (3.1.12-378 → 3.1.14-382)
++ Patchouli (1.0-21 → 1.0-23.6)
++ ZeroCore 2 (0.1.2.8 → 0.1.2.9)
+ 
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Updated Server files (**Recommend all server owners to use the new files provided with this update**).
++ Added Microsoft Ingame Re-Login support.
++ Fixed an issue that would occur when downloading the pack off CurseForge.
++ Disabled Quarks Limestone
++ Disabled Quarks Marble.
++ Disabled Quarks Basalt.
++ Disabled Archaeologist.
++ Disabled Color Runes.
++ Server Files are now using our new SIMPLE FILES setup.
++ New Main Menu Design.
++ Performance Improvements.
+
+
+**Added:**
++ Simple Discord RPC
++ Better Advancements
++ Tree Harvester
++ FancyMenu
++ Tips
++ OAuth
++ Yet Another Recipe Conflict Fixer
+
+
+**Removed:**
++ CraftPresence
++ Custom Main Menu
++ Treecapitator Updated
++ Fast Leaf Decay
++ AI Improvements
++ It's the little things
++ MPUtils
++ MPUtils Basic Tools
++ RandomPatches
++ Foam​Fix
++ Kinetic Anti-Cheat
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/WarLords)
+
+---------------------------------------------------------------------------------
+<h1>3.1</h1> 
 
 **Updated:**
 + Forge (2847 → 2854)
